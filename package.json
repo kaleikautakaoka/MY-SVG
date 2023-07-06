@@ -1,0 +1,25 @@
+{
+  "name": "my-svg",
+  "version": "1.0.0",
+  "description": "SVG Creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleikautakaoka/MY-SVG.git"
+  },
+  "author": "Sachi Takaoka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaleikautakaoka/MY-SVG/issues"
+  },
+  "homepage": "https://github.com/kaleikautakaoka/MY-SVG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
