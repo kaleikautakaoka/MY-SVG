@@ -45,7 +45,7 @@ function init(Shape, Circle, Square, Triangle) {
             shapeChoices = response.shape;
         } else if (response.shape == 'Triangle') {
             shape = new Triangle(response.letter, response.Text_color, response.Background_color);
-            shapeChoices = response.shape;
+            shape.render();
         }
         
     });
