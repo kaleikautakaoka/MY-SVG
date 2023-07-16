@@ -1,4 +1,9 @@
 // TODO: Include packages needed for this application
+//Function to writetofile for the svg file
+//Init function to initialize the app
+
+
+
 const inquirer = require("inquirer");
 const fs = require("fs");
 const { circle, square, triangle } = require("./lib/Shapes.js");

@@ -16,6 +16,9 @@
   ## Description
   Create a SVG Decal with this awesome SVG creator!
 
+  ## ScreenShot
+  ![Untitled Video Sun Jul 16 2023](https://app.castify.com/view/d9c5422c-495e-4605-8a94-14039b633298)
+Untitled Video Sun Jul 16 2023
   ## Technologies
   Node.js, Inquirer, Javascript
 
